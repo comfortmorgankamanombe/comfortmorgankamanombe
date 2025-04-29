@@ -2,4 +2,4 @@
 <h2>👨‍💻 Software Development and Quant Projects:</h2>
 
 - <b>Quant analysis and Ai training </b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Quantitative analysis and Ai training](https://github.com/comfortmorgankamanombe/QuantAnalysisAi)
