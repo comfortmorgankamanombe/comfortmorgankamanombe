@@ -3,6 +3,7 @@
 
 - <b>Quant analysis and Ai training </b>
   - [Quantitative analysis and Ai training](https://github.com/comfortmorgankamanombe/QuantAnalysisAi)
+- <b>Website Development(full stack) </b> 
   - [WeatherNow](https://github.com/comfortmorgankamanombe/WeatherNow)
 
 
