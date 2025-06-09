@@ -12,4 +12,4 @@
 - <b>Full-Stack Web Development</b>  
   - [WeatherNow: Real-time & 5-Day Forecast](https://comfortmorgankamanombe.github.io/WeatherNow/)  
   - [SIMED: Pharmacy Website & Prescription Upload](https://simed-01.vercel.app/)  
-
+  - [eSIM Platform (In Development) 🌱](https://friday-nine-delta.vercel.app/)  
