@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Comfort! 👋</h1>
 <p align="center">
   <a href="https://github.com/comfortmorgankamanombe">💻 Programmer</a> •
-  <a href="https://www.linkedin.com/in/Morgan%20Kamanombe/">🛡️ Cybersecurity Professional</a> •
+  <a href="https://www.linkedin.com/in/morgan-kamanombe-944b81258?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">🛡️ Cybersecurity Professional</a> •
   <a href="https://www.youtube.com/c/joshmadakor">📊 Quant Analyst & Developer</a>
 </p>
 
@@ -23,5 +23,5 @@
 <h2>📫 Let's Connect!</h2>
 
 <p>
-Feel free to check out my work, star any project you like, or connect with me on <a href="https://www.linkedin.com/in/Morgan%20Kamanombe/">LinkedIn</a>. Always learning, always building!
+Check out my projects, leave a star ⭐, or connect with me on <a href="https://www.linkedin.com/in/morgan-kamanombe-944b81258?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">LinkedIn</a> — Always building, always learning!
 </p>
