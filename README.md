@@ -40,7 +40,7 @@
 - **GitHub:** [comfortmorgankamanombe](https://github.com/comfortmorgankamanombe)
 - **LinkedIn:** [Morgan Kamanombe](https://www.linkedin.com/in/morgan-kamanombe-944b81258?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
-- **Email:** [Send me an email](mailto:comfortmorgankamanombe@example.com)
+- **Email:** [Send me an email](mailto:kamanombemorgan@gmail.com)
 
 ---
 
