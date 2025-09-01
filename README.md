@@ -39,11 +39,11 @@
 
 - **GitHub:** [comfortmorgankamanombe](https://github.com/comfortmorgankamanombe)
 - **LinkedIn:** [Morgan Kamanombe](https://www.linkedin.com/in/morgan-kamanombe-944b81258?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-- **YouTube:** [Joshmadakor](https://www.youtube.com/c/joshmadakor)
+
 - **Email:** [Send me an email](mailto:comfortmorgankamanombe@example.com)
 
 ---
 
 ![Profile Views](https://komarev.com/ghpvc/?username=comfortmorgankamanombe&label=Profile%20Views&color=0e75b6&style=flat)
 
-© 2023 Comfort Morgan Kamanombe | Made with ❤️ for the developer community
+ Comfort Morgan Kamanombe | Made with ❤️ for the developer community
